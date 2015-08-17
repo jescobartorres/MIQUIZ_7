@@ -1,0 +1,28 @@
+body{background: #333; font-size: xx-large;}
+
+#page-wrap:after{content: "Smartphone Layout";}
+
+h2 span, section h3{display: none;}
+
+footer, input{font-size: large;}
+
+img{width: 180px; height: 180px; margin:6px 0px 0px 0px;
+   padding: 0px;border:1px solid white;}
+.a1{width:280px;margin: auto; font-size: large;background:#1a3538;
+  box-shadow: 10px 10px 5px #888888; color: #FFF;}
+figcaption{margin-bottom: 4px;}
+.a2{width:280px;margin:auto;font-size: large;
+box-shadow: 10px 10px 5px #888888; color: #FFF;}
+video{width:280px; height: 200px; margin: auto;}
+table{
+  margin:0 auto;
+}
+
+tr{margin-bottom: 20px;}
+
+table{margin:0 auto; font-size: 16px;}
+select{width: 184px; height: 23px; font-size: large;}
+section > div{padding: 0px;}
+p#comentarios{text-align: justify; color: #59523C;
+margin: 0px auto; font-size: 0.6em; margin-bottom: 10px;word-wrap: break-word;}
+.estilotextarea{margin:0 auto; overflow: auto; font-size: 0.4em;}
